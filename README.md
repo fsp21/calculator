@@ -1,5 +1,5 @@
 # calculator
-factorial calculator!
+Selenium script using Ruby for a very simple automation
 
 For Windows:
 - install "https://rubyinstaller.org/downloads/" latest version with Devkit
