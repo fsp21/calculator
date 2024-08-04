@@ -1,5 +1,5 @@
 # calculator
-Selenium script using Ruby for a very simple automation
+A very simple automation script using Selenium in Ruby, with Gherkin for defining test scenarios.
 
 For Windows:
 - install "https://rubyinstaller.org/downloads/" latest version with Devkit
